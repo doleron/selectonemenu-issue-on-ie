@@ -1,4 +1,8 @@
 # selectonemenu-issue-on-ie
 Prove of Concept project to describe a bug on IE 11 and Edge Browser of Primefaces Selectonemenu component
 
-![issue example](https://raw.githubusercontent.com/doleron/selectonemenu-issue-on-ie/master/selectonemenu_issue.gif)
+Example of issue (IE/Edge)
+![issue example](gifs/selectonemenu_issue.gif)
+
+No problem (chrome/firefox/...)
+![issue example](gifs/selectonemenu_no_issue.gif)
